@@ -1,12 +1,3 @@
-test: create a new file
-it works. great!
 
-get init :  to create a reporsitory from the curent folder
-git status:  get the status of the repository
-git commit -m "message": all staged changes will be committed/saved. the "message" helps to documment the changes
-git diff
-git checkout
-git branch :  get all branchs in the repository
-git branch "branch_name": the create a branch named branch_name from the curent branch/master
 
  
